@@ -1,0 +1,21 @@
+This project replicates notebook from cs100.1x Introduction to Big Data with Apache Spark
+
+The notbooks are created using a Spark Notebook
+Get the Spark Notebook from here: https://github.com/andypetrella/spark-notebook
+
+One way of installing the notebook app is:
+1. Make sure you have git and sbt installed.
+
+2. If these are not installed I recommend 'homebrew' as a Mac package manager.
+
+3. Run this:
+git clone https://github.com/andypetrella/spark-notebook.git
+cd spark-notebook
+
+4. Launch sbt console by running sbt from the spark-notebook folder.
+
+5. After sbt does its magic you should end up with [spark-notebook] prompt now type run.
+
+6. Head to this place pew pew i.e. in your favourite browser open localhost:9000.
+
+7. Load the notebook and play.
