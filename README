@@ -1,4 +1,4 @@
-This project replicates notebook from cs100.1x Introduction to Big Data with Apache Spark
+This project replicates notebooks from cs100.1x Introduction to Big Data with Apache Spark using the Scala API
 
 The notbooks are created using a Spark Notebook
 Get the Spark Notebook from here: https://github.com/andypetrella/spark-notebook
